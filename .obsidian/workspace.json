@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "32b30a84b2dd1808",
+    "type": "split",
+    "children": [
+      {
+        "id": "c301b5dd98c1ff70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a9843585f80be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e142a1047a51dea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4910a8dbac8be5f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a09b3f65de85ee6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#지역변수",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "426aa8afa1c91ad1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6852811a39c3aa69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "e3cbc1dc8ff5f94c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f360e4e1ffc45e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1982a4821a6f6d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "568a43a8514cf890",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a1c1f49bd4345b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e39dffe09d9c9b68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md"
+              }
+            }
+          },
+          {
+            "id": "2f22147d278ba847",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6024013357398966,
+                  "close": false
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "b5a9843585f80be0",
+  "lastOpenFiles": [
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code/template/TimeLogTemplate.java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code/template/TemplateCallBackTest.java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code/template/CallBack.java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code/template",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/ContextV2Test.java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/trace/template/AbstractTemplate.java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/trace/template",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/trace/callback/TraceTemplate.java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/trace/callback/TraceCallback.java",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션ACID.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션은 서비스 계층에서 처리.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 추상화.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 격리수준.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 동기화.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/스프링 부트 자동 등록.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/순수한 서비스 계층.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/반복되는 트랜잭션 문제 해결.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/tomcat-jdbc pool.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/HikariCP.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DBCP.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DataSource.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/commons-dbcp2.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/객체지향 프로그래밍/다형성.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션2. 쓰레드 로컬/3. ThreadLocal - 주의사항.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션2. 쓰레드 로컬/1. 동시성 문제.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션2. 쓰레드 로컬/2. ThreadLocal이란.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/10. 스프링 트랜잭션 전파1 - 기본/스프링 트랜잭션 - 다양한 전파 옵션.md",
+    "8. 스프링 핵심 원리 - 고급편/03. Trouble Shooting/무제 파일 2.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/무제 파일 1.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/1. 데이터 접근 기술 - 시작/@EventListener.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/7. JPA 적용3 - 예외 변환/EntityManager 예외.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/6. JPA 적용2 - 리포지토리 분석/JPA가 만들어서 실행한 Insert SQL.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/6. JPA 적용2 - 리포지토리 분석/JPA가 만들어서 실행한 Update SQL.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230328170819.png",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230328200541.png",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230330133648.png",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230330133042.png",
+    "사용기술/h2/src/main/org/h2/server/web/res/tree_view.gif",
+    "사용기술/h2/src/main/org/h2/server/web/res/tree_users.gif",
+    "사용기술/h2/src/main/org/h2/server/web/res/tree_user.gif",
+    "사용기술/h2/src/main/org/h2/server/web/res/tree_types.gif",
+    "사용기술/h2/src/main/org/h2/server/web/res/tree_type.gif",
+    "사용기술/h2/src/main/org/h2/server/web/res/tree_table.gif"
+  ]
+}
