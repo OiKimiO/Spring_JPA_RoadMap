@@ -8,18 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5a9843585f80be0",
+            "id": "f92af5b0c8fef623",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/1. 영속성 컨텍스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba92ca357599ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/2. 플러시.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2001a97f1a95471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/1. 영속성 컨텍스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cef6584f5a6f009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/4. 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e72eec78c9009301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f81eb1265e6d294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/2. 데이터베이스 스키마 자동 생성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51ae9730bb585b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/3. 필드와 컬럼 매핑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7acd5febdbd887c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -86,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md"
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md"
               }
             }
           },
@@ -136,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,19 +268,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b5a9843585f80be0",
+  "active": "7acd5febdbd887c9",
   "lastOpenFiles": [
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code/template/TimeLogTemplate.java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code/template/TemplateCallBackTest.java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code/template/CallBack.java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code/template",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/ContextV2Test.java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy/code",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/trace/strategy",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/trace/template/AbstractTemplate.java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/trace/template",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/trace/callback/TraceTemplate.java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/trace/callback/TraceCallback.java",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/OrderStatus.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/OrderStatus.java",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Order.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Item.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Item.java",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/OrderItem.java",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Order.java",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Member.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Member.java",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/2. 데이터베이스 스키마 자동 생성.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/3. 필드와 컬럼 매핑.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/4. 기본 키 매핑.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/3. 준영속 상태.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/1. 영속성 컨텍스트.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/2. 플러시.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/4. 정리.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/5..md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/무제 파일.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/무제 파일 1.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션ACID.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션은 서비스 계층에서 처리.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 추상화.md",
@@ -210,17 +306,6 @@
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DBCP.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DataSource.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/commons-dbcp2.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/객체지향 프로그래밍/다형성.md",
-    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션2. 쓰레드 로컬/3. ThreadLocal - 주의사항.md",
-    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션2. 쓰레드 로컬/1. 동시성 문제.md",
-    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션2. 쓰레드 로컬/2. ThreadLocal이란.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/10. 스프링 트랜잭션 전파1 - 기본/스프링 트랜잭션 - 다양한 전파 옵션.md",
-    "8. 스프링 핵심 원리 - 고급편/03. Trouble Shooting/무제 파일 2.md",
-    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/무제 파일 1.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/1. 데이터 접근 기술 - 시작/@EventListener.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/7. JPA 적용3 - 예외 변환/EntityManager 예외.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/6. JPA 적용2 - 리포지토리 분석/JPA가 만들어서 실행한 Insert SQL.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/6. JPA 적용2 - 리포지토리 분석/JPA가 만들어서 실행한 Update SQL.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230328170819.png",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230328200541.png",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230330133648.png",
