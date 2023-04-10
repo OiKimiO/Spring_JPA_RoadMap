@@ -1,24 +1,20 @@
 package hellojpa;
+
 import javax.persistence.*;
-import java.math.BigDecimal;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.Date;
+
 @Entity
-@TableGenerator(name="MEMBER_SEQ_GENERATOR",
-                table="MY_SEQUENCES",
-                pkColumnName = "MEMBER_SEQ",
-                allocationSize = 1)
 public class Member {
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE,
-                    generator = "MEMBER_SEQ_GENERATOR")
+    @GeneratedValue
+    @Column(name="MEMBER_ID")
     private Long id;
 
-    @Column(name = "name")
+    @Column(name="USERNAME")
     private String username;
 
-    public Member(){};
+    @ManyToOne
+    @JoinColumn(name="TEAM_ID")
+    private Team team;
 
     public Long getId() {
         return id;
@@ -34,5 +30,27 @@ public class Member {
 
     public void setUsername(String username) {
         this.username = username;
+    }
+
+    public Team getTeam() {
+        return team;
+    }
+
+    /*public void changeTeam(Team team) {
+        this.team = team;
+        team.getMembers().add(this);
+    }*/
+
+    public void setTeam(Team team){
+        this.team = team;
+    }
+
+    @Override
+    public String toString() {
+        return "Member{" +
+                "id=" + id +
+                ", username='" + username + '\'' +
+                ", team=" + team +
+                '}';
     }
 }

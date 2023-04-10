@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c301b5dd98c1ff70",
+        "id": "1f848fabaa2b6465",
         "type": "tabs",
         "children": [
           {
-            "id": "f92af5b0c8fef623",
+            "id": "cf41f4da2b4e32e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/1. 영속성 컨텍스트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eba92ca357599ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/2. 플러시.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2001a97f1a95471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/1. 영속성 컨텍스트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cef6584f5a6f009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/4. 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e72eec78c9009301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f81eb1265e6d294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/2. 데이터베이스 스키마 자동 생성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51ae9730bb585b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/3. 필드와 컬럼 매핑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7acd5febdbd887c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/4. 기본 키 매핑.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/4. 기본 키 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/4. 기본 키 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md"
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/4. 기본 키 매핑.md"
               }
             }
           },
@@ -221,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/4. 기본 키 매핑.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,27 +183,42 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7acd5febdbd887c9",
+  "active": "cf41f4da2b4e32e7",
   "lastOpenFiles": [
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/OrderStatus.java~",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/OrderStatus.java",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Order.java~",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Item.java~",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Item.java",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/OrderItem.java",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Order.java",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Member.java~",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Member.java",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/2. 데이터베이스 스키마 자동 생성.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/3. 연관관계 매핑 시작.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/3. 필드와 컬럼 매핑.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/2. 데이터베이스 스키마 자동 생성.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/1. 단방향 연관관계.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/2. 양방향 연관관계와 연관관계의 주인.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410132440.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/JpaMain.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/JpaMain.java",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Order.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/OrderItem.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410140355.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410140243.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Member.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Item.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/src/main/java/hellojpa/Order.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/src/main/java/hellojpa/Order.java",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410134045.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410134004.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/03. Trouble Shooting/섹션5. 연관관계 매핑 기초/1. 단방향 연관관계 매핑시 객체 set이 안됨.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410132706.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410132504.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410132351.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/target/classes/hellojpa/Team.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/src/main/java/hellojpa/Team.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410131450.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230410131402.png",
+    "README.md",
+    "무제 파일.canvas",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/4. 기본 키 매핑.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/3. 준영속 상태.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/1. 영속성 컨텍스트.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/2. 플러시.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/4. 정리.md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/5..md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/무제 파일.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/무제 파일 1.md",
@@ -300,21 +230,6 @@
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/스프링 부트 자동 등록.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/순수한 서비스 계층.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/반복되는 트랜잭션 문제 해결.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/tomcat-jdbc pool.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/HikariCP.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DBCP.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DataSource.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/commons-dbcp2.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230328170819.png",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230328200541.png",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230330133648.png",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/04. ImageFile/Pasted image 20230330133042.png",
-    "사용기술/h2/src/main/org/h2/server/web/res/tree_view.gif",
-    "사용기술/h2/src/main/org/h2/server/web/res/tree_users.gif",
-    "사용기술/h2/src/main/org/h2/server/web/res/tree_user.gif",
-    "사용기술/h2/src/main/org/h2/server/web/res/tree_types.gif",
-    "사용기술/h2/src/main/org/h2/server/web/res/tree_type.gif",
-    "사용기술/h2/src/main/org/h2/server/web/res/tree_table.gif"
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/반복되는 트랜잭션 문제 해결.md"
   ]
 }
