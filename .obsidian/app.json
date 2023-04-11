@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "0. InBox",
-  "attachmentFolderPath": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/무제 폴더"
+  "attachmentFolderPath": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/무제 폴더",
+  "promptDelete": false
 }
