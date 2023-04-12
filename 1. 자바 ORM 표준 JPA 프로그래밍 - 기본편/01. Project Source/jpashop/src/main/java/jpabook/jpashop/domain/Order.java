@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Entity
+@Table(name = "Orders")
 public class Order {
 
     @Id
@@ -20,6 +21,10 @@ public class Order {
 
     @OneToMany(mappedBy = "order")
     private List<OrderItem> orderItems = new ArrayList<>();
+
+    @OneToOne()
+    @JoinColumn(name="DELIVERY_ID")
+    private Delivery delivery;
 
     private LocalDateTime orderDate;
 
@@ -59,7 +64,7 @@ public class Order {
     }
 
     public void addOrderItem(OrderItem orderItem) {
+        orderItem.setOrder(this);
         orderItems.add(orderItem);
-        orderItem.setItem(this);
     }
 }

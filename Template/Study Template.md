@@ -1,4 +1,4 @@
-### 날짜 : {{date:YYYY-MM-DD}} {{time}}
+### 날짜 : {{date:YYYY-MM-DD}}
 ### 주제 :
 ---
 ### 태그

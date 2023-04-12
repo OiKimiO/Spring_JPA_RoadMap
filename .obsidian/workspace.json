@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/2. 양방향 연관관계와 연관관계의 주인.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/03. Trouble Shooting/섹션5. 연관관계 매핑 기초/1. 단방향 연관관계 매핑시 객체 set이 안됨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d697816c441716c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/03. Trouble Shooting/섹션6. 다양한 연관관계 매핑/2. 테이블명 예약어 사용으로 인한 오류.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "087efec28f49e14c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/1. 상속관계 매핑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "590dc163d42c51ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/1. 상속관계 매핑.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/2. 양방향 연관관계와 연관관계의 주인.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/1. 상속관계 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/2. 양방향 연관관계와 연관관계의 주인.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/1. 상속관계 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/2. 양방향 연관관계와 연관관계의 주인.md"
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/1. 상속관계 매핑.md"
               }
             }
           },
@@ -136,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/2. 양방향 연관관계와 연관관계의 주인.md",
+                "file": "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/1. 상속관계 매핑.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,53 +220,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cf41f4da2b4e32e7",
+  "active": "590dc163d42c51ab",
   "lastOpenFiles": [
+    "Pasted image 20230412112336.png",
+    "Pasted image 20230412112227.png",
+    "Pasted image 20230412112046.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/3..md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/2. @MappedSuperclass.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑/1. 상속관계 매핑.md",
+    "Template/zettelkasten.md",
+    "Template/Study Template.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/03. Trouble Shooting/섹션6. 다양한 연관관계 매핑/2. 테이블명 예약어 사용으로 인한 오류.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션7. 고급 매핑",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/03. Trouble Shooting/섹션6. 다양한 연관관계 매핑/1.  잘못된 연관관계 매핑으로 인한 오류.md",
+    "Pasted image 20230412110001.png",
+    "Pasted image 20230412103307.png",
+    "Pasted image 20230412100147.png",
+    "Pasted image 20230412094910.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/Order.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/Member.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/03. Trouble Shooting/섹션5. 연관관계 매핑 기초/1. 단방향 연관관계 매핑시 객체 set이 안됨.md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/OrderStatus.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/OrderItem.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/JpaMain.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/Item.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/DeliveryStatus.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/Delivery.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/target/classes/jpabook/jpashop/domain/Category.class",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230412094548.png",
+    "Template/Trouble Shooting Template.md",
+    "Template/무제 파일.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션6. 다양한 연관관계 매핑/1. 다대일(N - 1).md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션6. 다양한 연관관계 매핑/3. 일대일(1 - 1).md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션6. 다양한 연관관계 매핑/2. 일대다(1 - N).md",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230411095330.png",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/2. 양방향 연관관계와 연관관계의 주인.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/1. 단방향 연관관계.md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션6. 다양한 연관관계 매핑/2. 일대다(1 - N).md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션6. 다양한 연관관계 매핑/3. 일대일(1 - 1).md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/3. 필드와 컬럼 매핑.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/4. 기본 키 매핑.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션5. 연관관계 매핑 기초/3. 연관관계 매핑 시작.md",
-    "Pasted image 20230411101407.png",
-    "Pasted image 20230411101403.png",
-    "Pasted image 20230411101315.png",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/target/classes/hellojpa/JpaMain.class",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/target/classes/hellojpa/Member.class",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/src/main/java/hellojpa/JpaMain.java~",
-    "Pasted image 20230411100200.png",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/target/classes/hellojpa/Team.class",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/src/main/java/hellojpa/Team.java~",
-    "Pasted image 20230411095330.png",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/ex1-jpa/src/main/java/hellojpa/Member.java~",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230411101407.png",
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230411101403.png",
     "Pasted image 20230411093057.png.md",
-    "Pasted image 20230411093057.png",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230411092817.png",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230411084053.png",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230411084421.png",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/04. Image/Pasted image 20230411084337.png",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션6. 다양한 연관관계 매핑",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/2. 데이터베이스 스키마 자동 생성.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/1. 객체와 테이블 매핑.md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/JpaMain.java~",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/JpaMain.java",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/01. Project Source/jpashop/src/main/java/jpabook/jpashop/domain/Order.java~",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/03. Trouble Shooting/섹션5. 연관관계 매핑 기초/1. 단방향 연관관계 매핑시 객체 set이 안됨.md",
     "README.md",
     "무제 파일.canvas",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/3. 준영속 상태.md",
     "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/1. 영속성 컨텍스트.md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/2. 플러시.md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/4. 정리.md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션4. 엔티티 매핑/5..md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/무제 파일.md",
-    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/무제 파일 1.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션ACID.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션은 서비스 계층에서 처리.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 추상화.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 격리수준.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 동기화.md"
+    "1. 자바 ORM 표준 JPA 프로그래밍 - 기본편/02. Technology Study/섹션3. 영속성 관리 - 내부 동작 방식/2. 플러시.md"
   ]
 }
