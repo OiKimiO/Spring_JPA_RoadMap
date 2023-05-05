@@ -1,5 +1,7 @@
 package org.hellojpa;
 
+import org.hibernate.annotations.BatchSize;
+
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;

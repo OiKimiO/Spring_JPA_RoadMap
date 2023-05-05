@@ -10,6 +10,7 @@ public class Order {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "ORDER_ID")
     private Long id;
+
     private int orderAmount;
 
     @Embedded

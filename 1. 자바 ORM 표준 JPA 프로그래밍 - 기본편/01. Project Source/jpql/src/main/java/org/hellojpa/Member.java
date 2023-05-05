@@ -3,10 +3,15 @@ package org.hellojpa;
 import javax.persistence.*;
 
 @Entity
+@NamedQuery(
+        name="Member.findByUsername",
+        query="select m from Member m where m.username = :username"
+
+)
 public class Member {
 
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="MEMBER_ID")
     private Long id;
 
@@ -17,6 +22,17 @@ public class Member {
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "TEAM_ID")
     private Team team;
+
+    @Enumerated(EnumType.STRING)
+    private MemberType memberType;
+
+    public MemberType getMemberType() {
+        return memberType;
+    }
+
+    public void setMemberType(MemberType memberType) {
+        this.memberType = memberType;
+    }
 
     public void changeTeam(Team team){
         this.team = team;
@@ -51,6 +67,10 @@ public class Member {
         return team;
     }
 
+    public void setTeam(Team team) {
+        this.team = team;
+    }
+
     public Member(Long id, String username, int age) {
         this.id = id;
         this.username = username;
@@ -58,5 +78,13 @@ public class Member {
     }
 
     public Member() {
+    }
+
+    @Override
+    public String toString() {
+        return "Member{" +
+                "username='" + username + '\'' +
+                ", age=" + age +
+                '}';
     }
 }
